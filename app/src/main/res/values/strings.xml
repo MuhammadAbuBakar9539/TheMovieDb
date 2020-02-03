@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheMovieDbPopularMovies</string>
+    <string name="overview">Overview</string>
+    <string name="poupular_movies">Popular Movies</string>
+    <string name="not_sucsess_error">Movies couldn\'t found</string>
+    <string name="error">Error:</string>
+    <string name="movie_detail">Movie Detail</string>
+</resources>
